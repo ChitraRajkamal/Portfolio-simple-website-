@@ -3,12 +3,19 @@
 
 This is a basic personal portfolio website built using HTML and CSS. It consists of two main pages: a Home page introducing myself and highlighting key information, and a Contact page with details on how to get in touch.
 
+##Pages
+
+  - Home Page
+
+  - Contact Page
+
 ## Features
+
 Simple and clean design
 
-Home page with a brief introduction
+**Home Page:** A brief introduction and welcome message
 
-Contact page with essential contact details
+**Contact Page:** Contact page with essential contact details
 
 ## Technologies Used
 
