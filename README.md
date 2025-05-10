@@ -3,7 +3,7 @@
 
 This is a basic personal portfolio website built using HTML and CSS. It consists of two main pages: a Home page introducing myself and highlighting key information, and a Contact page with details on how to get in touch.
 
-##Pages
+#Pages
 
   - Home Page
 
@@ -13,15 +13,15 @@ This is a basic personal portfolio website built using HTML and CSS. It consists
 
 Simple and clean design
 
-**Home Page:** A brief introduction and welcome message
+  **Home Page:** A brief introduction and welcome message
 
-**Contact Page:** Contact page with essential contact details
+  **Contact Page:** Contact page with essential contact details
 
 ## Technologies Used
 
--HTML5
+  -HTML
 
--CSS3 (no frameworks or libraries)
+  -CSS 
 
 This project is ideal for beginners learning to build static websites or for anyone looking for a minimalist portfolio template.
 
